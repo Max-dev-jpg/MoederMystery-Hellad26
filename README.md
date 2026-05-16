@@ -31,8 +31,8 @@ Hermes (rennt rum & muss Zettel mit sinnlosen Nachrichten verteilen) -
 1.Diener des Prinzen Simon -Simon
 2.Diener des Prinzen Benedickt -Benedikt
 Janos -Emma
-Sokrates (erfüllt seinen Job, nerft Götter) -
-Diogenes (reichen Rollen unter die Nase halten, wieso sie reich sind) -
+Sokrates (erfüllt seinen Job, nerft Götter) - Johanna
+Diogenes (reichen Rollen unter die Nase halten, wieso sie reich sind) - Johanna
 Polyphem (blind) -Emma
 Kommandant der Soldaten -
 Ein verwirrter Gallier(Namen Endent auf X) -Emma
@@ -40,7 +40,7 @@ Soldaten (Massenrolle) 8mal -
 Heracles (wenn er Spartaner sieht hochflexen) -
 Händler (Massenrolle) 5mal -
 Bürger (Massenrolle) 4mal -
-Römer (Massenrolle) 5mal -
+Römer (Massenrolle) 5mal -Patrick
 einen Spartaner (rennt oberkörperfrei rum & flext; Mariooos Gaschus, os von Vorstellung zu Vorstellung länger,wenn er Herakles sieht hochflexen) -Franek
 Triaden & Nymphen 5mal -
 Ares -
@@ -50,4 +50,4 @@ Hofgärtner(mit spanischem dialekt) Woojoo -Karo
 
 
 
-Umgebung: Hochzeit von Prinz und Liebhaber, sie laden ein.
+Umgebung: Hochzeit von Prinz und Liebhaber, Königspaar laden ein.
