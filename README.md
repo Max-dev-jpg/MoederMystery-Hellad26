@@ -10,26 +10,26 @@ König Julius -Karo
 Königin Eleni -Karo
 1.Prinz -patrick
 2.Prinz -Patrick
-Liebhaber d. 1.Prinz -
-Liebhaber Vater -
+Liebhaber d. 1.Prinz -Karo
+Liebhaber Vater -Karo
 Odyseuss -Emma
 Diomedes -Franek
 Ares -Franek
 1.Leibwache -Patrick
 2.Leibwache -Patrick
 Hades -Franek
-Iris -
+Iris -Johanna
 Eros (muss leute shippen!!!) -Franek
 Persephone -Franek
-Athene -
+Athene -Johanna
 Artemis (darf nicht mit Männern reden) -
 Demeter -Franek
-Ares -
+Ares -Franek
 Hephaistos -
 Hestia -
-Hermes (rennt rum & muss Zettel mit sinnlosen Nachrichten verteilen) Theo -
-1.Diener des Prinzen -Simon
-2.Diener des Prinzen -Benedikt
+Hermes (rennt rum & muss Zettel mit sinnlosen Nachrichten verteilen) -
+1.Diener des Prinzen Simon -Simon
+2.Diener des Prinzen Benedickt -Benedikt
 Janos -Emma
 Sokrates (erfüllt seinen Job, nerft Götter) -
 Diogenes (reichen Rollen unter die Nase halten, wieso sie reich sind) -
@@ -46,3 +46,8 @@ Triaden & Nymphen 5mal -
 Ares -
 Zweiter Prinz(hasst ersten Prinzen) -
 Hofgärtner(mit spanischem dialekt) Woojoo -Karo
+
+
+
+
+Umgebung: Hochzeit von König und Königin, sie laden ein.
