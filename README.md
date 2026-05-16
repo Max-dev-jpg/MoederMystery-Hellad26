@@ -1,4 +1,4 @@
-@## MöderMystery-Hellas26
+# MöderMystery-Hellas26
 
 Aphrodite  Wester -Benedikt
 Dionysos Hirschmann -Benedikt
@@ -47,7 +47,4 @@ Ares -
 Zweiter Prinz(hasst ersten Prinzen) -
 Hofgärtner(mit spanischem dialekt) Woojoo -Karo
 
-
-
-
-Umgebung: Hochzeit von Prinz und Liebhaber, Königspaar laden ein.
+## Umgebung: Hochzeit von Prinz und Liebhaber, Königspaar laden ein
