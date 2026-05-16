@@ -1,1 +1,42 @@
 # MöderMystery-Hellad26
+Aphrodite-Benedikt
+Dionysos-Benedikt
+Apollo
+Zeus-Karo
+Hera-Karo
+König
+Königin
+1.Prinz
+Liebhaber d. 1.Prinz
+Liebhaber Vater
+Odyseuss-Emma
+Diomedes
+Ares
+1.Leibwache
+2.Leibwache
+Hades
+Iris
+Eros(shippen!!!)
+Persephone
+Athene
+Artemis (darf nicht mit Männern reden)
+Demeter
+Ares
+Hephaistos
+Hestia
+Hermes (rennt rum & muss Zettel mit sinnlosen Nachrichten verteilen)
+1.Diener des Prinzen-Simon
+2.Diener des Prinzen-Benedikt
+Janos-Emma
+Sokrates (erfüllt seinen Job)
+Diogenes (reichen Rollen unter die Nase halten, wieso sie reich sind)
+Polyphem(blind)-Emma
+Kommandant der Soldaten
+Ein verwirrter Gallier(Namen Endent auf X)-Emma
+Soldaten
+Heracles
+Händler
+Bürger
+Römer
+einen Spartaner (rennt oberkörperfrei rum & flext; Mariooos Gaschus, os von Vorstellung zu Vorstellung länger)-Franek
+Triaden & Nymphen
