@@ -28,15 +28,19 @@ Hermes (rennt rum & muss Zettel mit sinnlosen Nachrichten verteilen)
 1.Diener des Prinzen-Simon
 2.Diener des Prinzen-Benedikt
 Janos-Emma
-Sokrates (erfüllt seinen Job)
+Sokrates (erfüllt seinen Job, nerft Götter)
 Diogenes (reichen Rollen unter die Nase halten, wieso sie reich sind)
 Polyphem(blind)-Emma
 Kommandant der Soldaten
 Ein verwirrter Gallier(Namen Endent auf X)-Emma
-Soldaten
+Soldaten (Massenr)
 Heracles
-Händler
-Bürger
-Römer
+Händler (Massenrolle)
+Bürger (Massenrolle)
+Römer (Massenrolle)
 einen Spartaner (rennt oberkörperfrei rum & flext; Mariooos Gaschus, os von Vorstellung zu Vorstellung länger)-Franek
 Triaden & Nymphen
+Ares
+Zweiter Prinz(hasst ersten Prinzen)
+Liebhaber des Ersten Prinzens
+Hofgärtner(mit spanischem dialekt) (woojoo) Sophia
