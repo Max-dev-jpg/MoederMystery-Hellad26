@@ -1,9 +1,10 @@
 # MöderMystery-Hellas26
-Aphrodite-Benedikt
-Dionysos-Benedikt
-Apollo
-Zeus -Karo
-Hera -Karo
+Aphrodite  Wester -Benedikt
+Dionysos Hirschmann -Benedikt
+Apollo Dürr
+Zeus Rudel -Karo
+Hera Eisele -Karo
+Poseidon Tho
 König Julius
 Königin Eleni
 1.Prinz
@@ -16,7 +17,7 @@ Ares
 2.Leibwache
 Hades
 Iris
-Eros(muss leute shippen!!!)
+Eros (muss leute shippen!!!)
 Persephone
 Athene
 Artemis (darf nicht mit Männern reden)
@@ -24,13 +25,13 @@ Demeter
 Ares
 Hephaistos
 Hestia
-Hermes (rennt rum & muss Zettel mit sinnlosen Nachrichten verteilen)
+Hermes (rennt rum & muss Zettel mit sinnlosen Nachrichten verteilen) Theo 
 1.Diener des Prinzen-Simon
 2.Diener des Prinzen-Benedikt
 Janos -Emma
-Sokrates (erfüllt seinen Job, nerft Götter)
+Sokrates (erfüllt seinen Job, nerft Götter) 
 Diogenes (reichen Rollen unter die Nase halten, wieso sie reich sind)
-Polyphem(blind)-Emma
+Polyphem (blind)-Emma
 Kommandant der Soldaten
 Ein verwirrter Gallier(Namen Endent auf X) -Emma
 Soldaten (Massenrolle)
