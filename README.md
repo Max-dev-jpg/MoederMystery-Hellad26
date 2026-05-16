@@ -44,4 +44,4 @@ einen Spartaner (rennt oberkörperfrei rum & flext; Mariooos Gaschus, os von Vor
 Triaden & Nymphen 5mal -
 Hofgärtner(mit spanischem dialekt) Woojoo -Karo
 
-## Umgebung: Hochzeit von Prinz und Liebhaber, Königspaar laden ein
+## Umgebung: Hochzeit von Prinz und Liebhaber, Königspaar laden ein. Der König kann seinen 2. Leibwächter zu morden Anweißen, wenn er hört das jemand über ihn lästert
