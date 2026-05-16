@@ -38,7 +38,7 @@ Kommandant der Soldaten -
 Ein verwirrter Gallier(Namen Endent auf X) -Emma
 Soldaten (Massenrolle) 8mal -
 Heracles (wenn er Spartaner sieht hochflexen) -
-Händler (Massenrolle) 5mal -
+Händler (Massenrolle) 5mal - Patrick
 Bürger (Massenrolle) 4mal -
 Römer (Massenrolle) 5mal -Patrick
 einen Spartaner (rennt oberkörperfrei rum & flext; Mariooos Gaschus, os von Vorstellung zu Vorstellung länger,wenn er Herakles sieht hochflexen) -Franek
