@@ -50,4 +50,4 @@ Hofgärtner(mit spanischem dialekt) Woojoo -Karo
 
 
 
-Umgebung: Hochzeit von König und Königin, sie laden ein.
+Umgebung: Hochzeit von Prinz und Liebhaber, sie laden ein.
