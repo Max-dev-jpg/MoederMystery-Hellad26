@@ -24,7 +24,6 @@ Persephone -Franek
 Athene -Johanna
 Artemis (darf nicht mit Männern reden) -
 Demeter -Franek
-Ares -Franek
 Hephaistos -
 Hestia -
 Hermes (rennt rum & muss Zettel mit sinnlosen Nachrichten verteilen) -
@@ -39,12 +38,10 @@ Ein verwirrter Gallier(Namen Endent auf X) -Emma
 Soldaten (Massenrolle) 8mal -
 Heracles (wenn er Spartaner sieht hochflexen) -
 Händler (Massenrolle) 5mal - Patrick
-Bürger (Massenrolle) 4mal -
+Bürger (Massenrolle) 4mal - Patrick
 Römer (Massenrolle) 5mal -Patrick
 einen Spartaner (rennt oberkörperfrei rum & flext; Mariooos Gaschus, os von Vorstellung zu Vorstellung länger,wenn er Herakles sieht hochflexen) -Franek
 Triaden & Nymphen 5mal -
-Ares -
-Zweiter Prinz(hasst ersten Prinzen) -
 Hofgärtner(mit spanischem dialekt) Woojoo -Karo
 
 ## Umgebung: Hochzeit von Prinz und Liebhaber, Königspaar laden ein
