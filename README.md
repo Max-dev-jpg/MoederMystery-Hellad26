@@ -35,7 +35,7 @@ Diogenes (reichen Rollen unter die Nase halten, wieso sie reich sind) - Johanna
 Polyphem (blind) -Emma
 Kommandant der Soldaten -
 Ein verwirrter Gallier(Namen Endent auf X) -Emma
-Soldaten (Massenrolle) 8mal -
+Soldaten (Massenrolle) 8mal -Patrick
 Heracles (wenn er Spartaner sieht hochflexen) -
 Händler (Massenrolle) 5mal - Patrick
 Bürger (Massenrolle) 4mal - Patrick
